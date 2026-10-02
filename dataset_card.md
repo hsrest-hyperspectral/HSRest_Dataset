@@ -20,6 +20,7 @@ The generated benchmark data are distributed separately from the GitHub
 repository.
 
 **Generated data:**  
+Only generated validation data has been given for reference. The full data will be uploaded upon acceptance.
 https://1024terabox.com/s/13QTdKtMKjw1nyAIBU8M1Yw
 
 ---
