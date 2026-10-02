@@ -20,7 +20,7 @@ The generated benchmark data are distributed separately from the GitHub
 repository.
 
 **Generated data:**  
-https://drive.google.com/drive/folders/1waQn8uEF0_2IjvYzKfDdOfqEfMTIZHrP?usp=sharing
+https://1024terabox.com/s/13QTdKtMKjw1nyAIBU8M1Yw
 
 ---
 
